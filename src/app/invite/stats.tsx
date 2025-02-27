@@ -10,7 +10,7 @@ export function Stats() {
         </span>
 
         <span className="text-gray-300 text-sm leading-none text-center">
-          Acessos ao link
+          Link Clicks
         </span>
 
         <MousePointerClick className="size-5 text-purple absolute top-3 left-3" />
@@ -22,7 +22,7 @@ export function Stats() {
         </span>
 
         <span className="text-gray-300 text-sm leading-none text-center">
-          Inscrições realizadas
+          Registrations Completed
         </span>
 
         <BadgeCheck className="size-5 text-purple absolute top-3 left-3" />
@@ -34,7 +34,7 @@ export function Stats() {
         </span>
 
         <span className="text-gray-300 text-sm leading-none text-center">
-          Posição no ranking
+          Ranking Position
         </span>
 
         <Medal className="size-5 text-purple absolute top-3 left-3" />

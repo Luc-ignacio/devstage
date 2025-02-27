@@ -7,7 +7,7 @@ export function Ranking() {
   return (
     <div className="w-full max-w-[440px] space-y-5">
       <h2 className="text-gray-200 text-xl font-heading font-semibold leading-none">
-        Ranking de Indicações
+        Referral Ranking
       </h2>
 
       <div className=" space-y-4">

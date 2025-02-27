@@ -15,24 +15,23 @@ export default function Invite() {
 
         <div className="space-y-2">
           <h1 className="text-4xl font-semibold font-heading text-gray-100 leading-none">
-            Inscrição Confirmada
+            Registration Confirmed
           </h1>
 
           <p className="text-gray-300">
-            Para entrar no evento, acesse o link enviado para seu e-mail.
+            To join the event, access the link sent to your email.
           </p>
         </div>
 
         <div className="space-y-6">
           <div className="space-y-3">
             <h2 className="text-gray-200 text-xl font-heading font-semibold leading-none">
-              Indique e Ganhe
+              Refer and Win
             </h2>
 
             <p className="text-gray-300">
-              Convide mais pessoas para o evento e concorra a prêmios
-              exclusivos! É só compartilhar o link abaixo e acompanhar as
-              inscrições:
+              Invite more people to the event and compete for exclusive prizes!
+              Simply share the link below and track registrations:
             </p>
           </div>
         </div>

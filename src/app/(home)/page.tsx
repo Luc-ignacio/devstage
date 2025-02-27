@@ -19,24 +19,23 @@ export default function Home() {
         <div className="flex-1 bg-gray-700 border border-gray-600 rounded-2xl p-8 space-y-6">
           <div className="flex items-center justify-between">
             <h2 className="font-heading font-semibold text-gray-200 text-xl">
-              Sobre o Evento
+              About the Event
             </h2>
 
             <span className="text-purple font-semibold text-xs flex items-center gap-2">
               <Radio className="size-5" />
-              Ao Vivo
+              Live
             </span>
           </div>
 
           <p className="text-gray-300 leading-relaxed text-sm md:text-base">
-            Um evento feito por e para pessoas desenvolvedoras apaixonadas por
-            criar soluções inovadoras e compartilhar conhecimento. Vamos
-            mergulhar nas tendências mais recentes em desenvolvimento de
-            software, arquitetura de sistemas e tecnologias emergentes, com
-            palestras, workshops e hackathons.
+            An event created by and for developers who are passionate about
+            building innovative solutions and sharing knowledge. We'll dive into
+            the latest trends in software development, system architecture, and
+            emerging technologies through talks, workshops, and hackathons.
             <br />
             <br />
-            Dias 15 a 17 de março | Das 18h às 21h | Online & Gratuito
+            15th to 17th March | 6:00 PM to 9:00 PM | Online & Free
           </p>
         </div>
 

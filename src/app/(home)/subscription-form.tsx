@@ -33,7 +33,7 @@ export function SubscriptionForm() {
       className="bg-gray-700 border border-gray-600 rounded-2xl p-8 space-y-6 w-full md:max-w-[440px]"
     >
       <h2 className="font-heading font-semibold text-gray-200 text-xl">
-        Inscrição
+        Registration
       </h2>
 
       <div className="space-y-3">
@@ -44,7 +44,7 @@ export function SubscriptionForm() {
             </InputIcon>
             <InputField
               type="text"
-              placeholder="Nome Completo"
+              placeholder="Full Name"
               {...register("name")}
             />
           </InputRoot>
@@ -76,7 +76,7 @@ export function SubscriptionForm() {
         </div>
 
         <Button type="submit">
-          Confirmar
+          Confirm
           <ArrowRight className="size-5" />
         </Button>
       </div>
