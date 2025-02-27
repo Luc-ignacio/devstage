@@ -5,12 +5,12 @@ import cooper from "../../assets/medal_cooper.svg";
 
 export function Ranking() {
   return (
-    <div className="w-full max-w-[440px] space-y-5">
+    <div className="min-h-full w-full md:max-w-[440px] items-stretch space-y-5">
       <h2 className="text-gray-200 text-xl font-heading font-semibold leading-none">
         Referral Ranking
       </h2>
 
-      <div className=" space-y-4">
+      <div className="space-y-6">
         <div className="relative rounded-xl bg-gray-700 border border-gray-600 p-6 flex flex-col justify-center gap-3">
           <span className="text-sm text-gray-300 leading-none">
             <span className="font-semibold">1º</span> | Lucas I.

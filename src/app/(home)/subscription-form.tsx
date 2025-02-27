@@ -30,7 +30,7 @@ export function SubscriptionForm() {
   return (
     <form
       onSubmit={handleSubmit(onSubscribe)}
-      className="bg-gray-700 border border-gray-600 rounded-2xl p-8 space-y-6 w-full md:max-w-[440px]"
+      className="bg-gray-700 border border-gray-600 rounded-2xl p-8 space-y-6 w-full md:max-w-[440px] flex flex-col justify-center"
     >
       <h2 className="font-heading font-semibold text-gray-200 text-xl">
         Registration
