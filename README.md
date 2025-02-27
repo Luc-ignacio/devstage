@@ -7,8 +7,6 @@ This system allows users to **sign up, invite others, and track their referral r
 ![devstage-invite](https://github.com/user-attachments/assets/c5699fc9-72cf-42ef-bdaa-38aaaebb76a0)
 
 
----
-
 ## 🚀 Features
 - **Next.js 19 (App Router)** – Fast, scalable, and optimised architecture.
 - **TypeScript** – Strongly typed for better maintainability and scalability.
@@ -19,8 +17,6 @@ This system allows users to **sign up, invite others, and track their referral r
 - **Leaderboard Ranking** – Tracks referral success and ranks participants.
 - **Fully Responsive** – Optimised for desktop and mobile devices.
 
-
----
 
 ## 📂 Project Structure
 
